@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<body class="bodyIndex">
+<div class="text-center">
+  <div class="textoinicio">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/logoinicio.jpg" alt="First slide" style="border-radius: 25% ; border: 2px solid gold;">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/goku.png" alt="Second slide" style="border-radius: 25% ; border: 2px solid gold;">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/lol.png" alt="Third slide" style="border-radius: 25% ; border: 2px solid gold;" >
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/fulbo.png" alt="Fourth slide" style="border-radius: 25% ; border: 2px solid gold;">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/cine.png" alt="Fifth slide" style="border-radius: 25% ; border: 2px solid gold;">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only"></span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only"></span>
+  </a>
+</div>
+
+    <form class="form">
+      <div class="ingresarNombre">
+  <div class="form-group mx-sm-5 mb-2">
+    <h3 style="color: gold ;">*Nombre*</h3>
+    <label for="inputtext" class="sr-only"></label>
+    <input type="text" class="form-control" id="inputPassword2" placeholder="" required>
+  </div>
+  <br/><button type="submit" asp-area="" asp-controller="Home" asp-action="Player" class="btn btn-warning btn-lg" style="height:50% ; width: 50%;">Jugar</button>
+  </div>
+</form>
+</div>
+</div>
+</div>
+</body>

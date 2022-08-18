@@ -1,0 +1,63 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-image: url("/fondoinicio.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.textoinicio
+{
+  color:gold ;
+}
+.navbar
+{
+  background-color: transparent !important;
+}
+.logo{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+.carousel{
+  width: 70%;
+  height: 70%;
+  margin-left: 15%;
+}
+
+.bodyIndex
+{
+  background-image: url("/fondoperma.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ingresarNombre
+{
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.textoInicio
+{
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
