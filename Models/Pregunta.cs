@@ -4,6 +4,7 @@ using System;
 public class Pregunta
 {
     private int _IdRespuesta;
+
     private string _pregunta;
 
     private int _nivelDificultad;

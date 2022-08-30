@@ -37,7 +37,7 @@ public respuesta (int fkPregunta, char OpcionRespuesta, string TextoRespuesta, b
         set{_Correcto = value;}
     }
 
-}
+} 
 
 
  

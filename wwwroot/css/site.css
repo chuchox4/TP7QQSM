@@ -48,6 +48,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.bodyPregunta
+{
+  background-image: url("/preguntas.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .ingresarNombre
 {
@@ -62,9 +69,19 @@ body {
   margin-right: 15%;
 }
 .logo-image{
-  width: 46px;
-  height: 46px;
-  border-radius: 50%;
-  overflow: hidden;
-  margin-top: -6px;
+  width: 30%;
+  height: auto;
 }
+.guido{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  
+}
+.Lista{
+  right: 0%;
+  bottom: 20%;
+}
+
