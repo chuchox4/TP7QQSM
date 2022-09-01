@@ -81,7 +81,19 @@ body {
   
 }
 .Lista{
+  color: blue;
+  position: fixed;
+  bottom: 15%;
   right: 0%;
-  bottom: 20%;
+}
+
+.botones
+{
+  color: transparent;
+  width: 20%;
+  height: auto;
+  position: absolute;
+  top: 0%;
+  right: 10%;
 }
 
