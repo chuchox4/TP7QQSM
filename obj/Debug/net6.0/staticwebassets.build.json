@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sPFjK8Oq9ozEEtzSUdAobfkBvLl/5TOu5RgCvbbts5A=",
+  "Hash": "g8D/SXz41ZOjOHdqkWhITp4l8UVEc4HExw0YuIKjV1Y=",
   "Source": "TP7QQSM",
   "BasePath": "_content/TP7QQSM",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP7QQSM\\wwwroot",
       "Source": "TP7QQSM",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP7QQSM.styles.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP7QQSM.styles.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "TP7QQSM.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP7QQSM.styles.css"
+      "OriginalItemSpec": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TP7QQSM.styles.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP7QQSM.bundle.scp.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP7QQSM.bundle.scp.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "TP7QQSM.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP7QQSM.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\chuch\\TP7QQSM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP7QQSM.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\cine.png",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\cine.png",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "cine.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\cine.png"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\css\\site.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\CURSED.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\CURSED.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "CURSED.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\CURSED.jpg"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\favicon.ico",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\fondoinicio.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\fondoinicio.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "fondoinicio.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\fondoinicio.jpg"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\fondoperma.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\fondoperma.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "fondoperma.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\fondoperma.jpg"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\fulbo.png",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\fulbo.png",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "fulbo.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\fulbo.png"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\ganador.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\ganador.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "ganador.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\ganador.jpg"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\goku.png",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\goku.png",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "goku.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\goku.png"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\js\\site.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\logo.png",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "logo.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\logoinicio.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\logoinicio.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "logoinicio.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\logoinicio.jpg"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\lol.png",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\lol.png",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "lol.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lol.png"
     },
     {
-      "Identity": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\preguntas.jpg",
+      "Identity": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\preguntas.jpg",
       "SourceId": "TP7QQSM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47069838\\TP7QQSM\\TP7QQSM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chuch\\TP7QQSM\\wwwroot\\",
       "BasePath": "_content/TP7QQSM",
       "RelativePath": "preguntas.jpg",
       "AssetKind": "All",
