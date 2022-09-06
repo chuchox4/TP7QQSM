@@ -240,3 +240,14 @@ C:\Users\chuch\TP7QQSM\obj\Debug\net6.0\refint\TP7QQSM.dll
 C:\Users\chuch\TP7QQSM\obj\Debug\net6.0\TP7QQSM.pdb
 C:\Users\chuch\TP7QQSM\obj\Debug\net6.0\TP7QQSM.genruntimeconfig.cache
 C:\Users\chuch\TP7QQSM\obj\Debug\net6.0\ref\TP7QQSM.dll
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.csproj.AssemblyReference.cache
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.AssemblyInfoInputs.cache
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.AssemblyInfo.cs
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.csproj.CoreCompileInputs.cache
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.RazorAssemblyInfo.cache
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.RazorAssemblyInfo.cs
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.dll
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\refint\TP7QQSM.dll
+C:\Users\46916288\TP7QQSM\obj\Debug\net6.0\TP7QQSM.pdb
