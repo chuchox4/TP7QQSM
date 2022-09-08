@@ -4,7 +4,7 @@ using System;
 
 public class Jugador
 {
-    public int _idJugado{get; set;}
+    public int _idJugador{get; set;}
     public string _Nombre{get; set;}
     public DateTime _FechaHora{get; set;}
     public int _PozoGanado{get; set;}

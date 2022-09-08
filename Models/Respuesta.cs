@@ -1,7 +1,7 @@
 using System.Reflection.Metadata;
 using System;
 
-public class respuesta{
+public class Respuesta{
     private int _fkPregunta;
 
     private char _OpcionRespuesta;
@@ -10,13 +10,13 @@ public class respuesta{
 
     private bool _Correcto;
 
-public respuesta (int fkPregunta, char OpcionRespuesta, string TextoRespuesta, bool Correcto){
+public Respuesta (int fkPregunta, char OpcionRespuesta, string TextoRespuesta, bool Correcto){
     _fkPregunta = fkPregunta;
     _OpcionRespuesta = OpcionRespuesta;
     _TextoRespuesta = TextoRespuesta;
     _Correcto = Correcto;
 }
-   public respuesta()
+   public Respuesta()
     {
 
     }
@@ -34,6 +34,7 @@ public respuesta (int fkPregunta, char OpcionRespuesta, string TextoRespuesta, b
     }
      public bool Correcto
     {
+        get{return _Correcto;}
         set{_Correcto = value;}
     }
 
